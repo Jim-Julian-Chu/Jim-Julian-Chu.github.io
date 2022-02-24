@@ -1,0 +1,39 @@
+.primary{
+    color:#186A3B;
+}
+.fb{
+    color:darkblue;
+}
+#IG{
+    color:purple;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    display: flex; 
+    /* 彈性容器 */
+    flex-wrap: wrap;
+}
+.intro-bloack .row{
+    align-items: center;
+}
+.avatar{
+    width:20%;
+}
+.avatar img{
+    width:90%;
+    border-radius:60%;
+}
+.content{
+    width: 80%;
+}
+.contact ul{
+    list-style:none;
+    padding:0;
+}
+.contact>ul li{
+    display: inline;
+    padding: 0 5px;
+}
