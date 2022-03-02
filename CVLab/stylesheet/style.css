@@ -37,3 +37,27 @@
     display: inline;
     padding: 0 5px;
 }
+.body.horizontal{
+    align-items: center;
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+}
+.horizontal{
+    display:flex;
+    flex-wrap: wrap;
+    padding-left: 10pt;
+}
+.description{
+    width:80%;
+}
+.time{
+    width:20%;
+}
+p1{
+    color:grey;
+    opacity: 70%;
+    font-size: 15pt;
+    font-weight: bolder;
+}
