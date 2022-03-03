@@ -28,14 +28,11 @@ body{
 }
 .avatar{
     width:20%;
-    padding-top: 5pt;
-    padding-left:17pt;
-    margin-right:10pt;
+    padding-top: 2%;
+    padding-left:2%;
+    margin-right:2%;
     background: rgba(113, 118, 196, 0.897);
-    border-bottom-left-radius: 30%;
-    border-top-left-radius: 30%;
-    border-top-right-radius: 30%;
-    border-bottom-right-radius: 30%;
+    border-radius: 80%;
 
 }
 .avatar img{
